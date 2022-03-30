@@ -1,0 +1,36 @@
+body,
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+/*Pricing  icon*/
+
+.pricing_icon {
+  background: #ebe9fb;
+  color: #5a4fdc;
+  font-size: 24px;
+  height: 80px;
+  width: 80px;
+  text-align: center;
+  padding: 19px;
+  margin-bottom: 10px;
+  border-radius: 15px 15px 0 15px;
+}
+
+/* header  */
+header {
+  background-image: url(/images/header_bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* features */
+#features {
+  background: url(images/feature_bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
