@@ -34,3 +34,9 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+/* footer */
+footer {
+  background: #292838;
+  background-image: url(images/feature_bg.png);
+}
